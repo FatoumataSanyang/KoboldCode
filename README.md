@@ -30,7 +30,7 @@ Interactive Workspace Panel: Track the live agent plan, explore file trees, prev
 Project Memory & Commands: Use /init to generate a project-level KOBOLD.md memory file loaded every session. Built-in slash commands include /review, /test, /commit, /plan, /mode, /effort, /compact, and /help.
 
 Hardware Recommendations & Best Models
-Designed and tested around local setups (such as an RTX 3060 12GB paired with 32GB system RAM):
+Designed and tested around local setups
 
 Smartest Coding Option (MoE Offloading): Qwen3.6-35B-A3B (or similar MoE models). Because only a fraction of the parameters are active per token, mixture-of-experts models can split layers between VRAM and system RAM via KoboldCpp.
 
