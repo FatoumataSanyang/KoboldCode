@@ -49,3 +49,7 @@ Execute the single-file Python application (requires only the Python standard li
 
 Bash
 python kobold_code.py
+
+
+
+(Author note): Pls use a thinking model :)
